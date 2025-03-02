@@ -1,0 +1,20 @@
+{
+    "001": {
+        "ID Artículo": "001",
+        "Nombre": "Esfero Bic azul",
+        "Cantidad": 25,
+        "Precio": 0.5
+    },
+    "002": {
+        "ID Artículo": "002",
+        "Nombre": "Borrador PZ 40",
+        "Cantidad": 25,
+        "Precio": 0.25
+    },
+    "004": {
+        "ID Artículo": "004",
+        "Nombre": "Sobre Manila A4",
+        "Cantidad": 75,
+        "Precio": 0.25
+    }
+}
