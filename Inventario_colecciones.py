@@ -2,8 +2,6 @@ import os
 import json
 from tabulate import tabulate  # Librería para darle formato a las tablas
 
-# Obtener la ruta del directorio actual de trabajo
-
 # Nombre de los archivos JSON donde se almacenará la información
 ARCHIVO_INVENTARIO = "inventario.json"
 ARCHIVO_ELIMINADOS = "productos_fuera_de_stock.json"
